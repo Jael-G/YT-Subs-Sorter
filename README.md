@@ -1,10 +1,10 @@
 # Youtube Subscribers Sorter
 
-Python scripts that exctract all the channels indicated in a dictinary, and then sorts them from highest sub count to lowest sub count using prettytable module.
+Python scripts that exctract all the channels indicated in a dictionary, and then sorts them from highest sub count to lowest sub count using the prettytable module.
 
 # Libraries
 
-The only library used that does not come with Python is prettytable. However, if when running the script it is not installed, the script will install it before continuing to run.
+The only library used that does not come with Python is prettytable. However, if when running the script prettytable is not installed, the script will install it before continuing to run.
 
 # Preview
 
