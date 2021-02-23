@@ -1,6 +1,6 @@
 # Youtube Subscribers Sorter
 
-Python script that exctract all the channels indicated in a dictionary, and then sorts them from highest sub count to lowest sub count using the prettytable module.
+Python script that exctracts all the channels indicated in a dictionary, and then sorts them from highest sub count to lowest sub count using the prettytable module.
 
 # Libraries
 
